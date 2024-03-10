@@ -8,7 +8,6 @@ I've been learning to code for 4 years. I started with JS, but have really found
 
 * 🌍  I'm based in Novosibirsk
 * ✉️  You can contact me at [ivan.chuvilin@list.ru](mailto:ivan.chuvilin@list.ru)
-* 🚀  I'm currently working on [Discord Bot](http://github.com/ichuvilin/discrod-bot)
 
 ### Skills
 
